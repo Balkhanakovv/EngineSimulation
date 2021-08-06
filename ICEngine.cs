@@ -116,7 +116,7 @@ namespace Engine_simulation
 
                 torque = GetCurrentTorque(velocityList[index], torqueList[index], velocityList[index + 1], torqueList[index + 1], velocity);
 
-                engineTemperature += GetHeatingSpeed(torque, velocity) - GetCoolingSpeed(ambientTemperature, engineTemperature);
+                engineTemperature += GetHeatingSpeed(torque, velocity) + GetCoolingSpeed(ambientTemperature, engineTemperature);
                 acceleration = GetCrankshaftAcceleration(torque);
 
                 time++;

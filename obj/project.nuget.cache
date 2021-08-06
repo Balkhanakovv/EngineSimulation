@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HptOJF2rW6fAa6w1IkYpEJ91FR7ByZQjhzeSE11X3Pvx0/v4VuujtPbDMXV+C3IQwKDV661BRin8CCI+P62M2w==",
+  "dgSpecHash": "+JLl1YTGZB5G4v8KLo0BsabcSVZH5c9aMGqKrS9BelSpxV0fIO6d6u/5E+V17kq9TJ9G1P72s1j/L7wUtcDB4A==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Проекты\\Engine_simulation\\Engine_simulation.csproj",
+  "projectFilePath": "E:\\Projects\\Проекты\\EngineSimulation\\Engine_simulation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

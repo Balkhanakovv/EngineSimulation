@@ -11,3 +11,16 @@ E:\Projects\Проекты\Engine_simulation\obj\Debug\netcoreapp3.1\Engine_simu
 E:\Projects\Проекты\Engine_simulation\obj\Debug\netcoreapp3.1\Engine_simulation.dll
 E:\Projects\Проекты\Engine_simulation\obj\Debug\netcoreapp3.1\Engine_simulation.pdb
 E:\Projects\Проекты\Engine_simulation\obj\Debug\netcoreapp3.1\Engine_simulation.genruntimeconfig.cache
+E:\Projects\Проекты\EngineSimulation\bin\Debug\netcoreapp3.1\Engine_simulation.exe
+E:\Projects\Проекты\EngineSimulation\bin\Debug\netcoreapp3.1\Engine_simulation.deps.json
+E:\Projects\Проекты\EngineSimulation\bin\Debug\netcoreapp3.1\Engine_simulation.runtimeconfig.json
+E:\Projects\Проекты\EngineSimulation\bin\Debug\netcoreapp3.1\Engine_simulation.runtimeconfig.dev.json
+E:\Projects\Проекты\EngineSimulation\bin\Debug\netcoreapp3.1\Engine_simulation.dll
+E:\Projects\Проекты\EngineSimulation\bin\Debug\netcoreapp3.1\Engine_simulation.pdb
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.csproj.AssemblyReference.cache
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.AssemblyInfoInputs.cache
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.AssemblyInfo.cs
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.csproj.CoreCompileInputs.cache
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.dll
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.pdb
+E:\Projects\Проекты\EngineSimulation\obj\Debug\netcoreapp3.1\Engine_simulation.genruntimeconfig.cache
