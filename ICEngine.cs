@@ -97,7 +97,7 @@ namespace Engine_simulation
         /// then test stop.
         /// </summary>
         /// <param name="testTime">Value of max time of test</param>
-        public int GetSuperheatTime(int testTime)
+        public virtual int GetSuperheatTime(int testTime)
         {
             int index = 0, time = 0;
 
@@ -105,7 +105,6 @@ namespace Engine_simulation
             double torque = torqueList[index];
             double acceleration = GetCrankshaftAcceleration(torque);
             double velocity = 0;
-
 
             while (time <= testTime)
             {

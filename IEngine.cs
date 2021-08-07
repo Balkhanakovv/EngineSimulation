@@ -36,6 +36,6 @@
         /// should return time to superheat.
         /// </summary>
         /// <param name="testTime">Value of max time of test</param>
-        public int GetSuperheatTime(int testTime);
+        int GetSuperheatTime(int testTime);
     }
 }
